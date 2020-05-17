@@ -27,4 +27,7 @@ The analysis was peformed to understand the quantative data and indicate any tre
 
 * Our peak age demographic falls between 20-24 (45%) with secondary groups falling between 15-19 (17%) and 25-29 (15%).
 
-* Our players are putting in significant cash during the lifetime of their gameplay. Across all major age and gender demographics, the average purchase for a user is roughly $491.
+* Our games have siginificant amount in-app purchases and we can tell the most profitable item was the `ShadowSteel Sword`. 
+
+## Advantages 
+* Based on the conclusions above, the marketing team can start to focus on the right users and features
